@@ -1,0 +1,49 @@
+{
+  "auth": {
+    "title": "Welcome back",
+    "email_placeholder": "Email",
+    "password_placeholder": "Password",
+    "remember_me": "Remember me",
+    "signin_btn": "Log in"
+  },
+  "home": {
+    "logo_modal": {
+      "title": "تغيير الشعار",
+      "placeholder": " قم بوضع الملف وتركه هنا او",
+      "browse": "اختر ملفا",
+      "confirm_btn": "حفظ",
+      "discard_btn": "الغاء"
+    },
+    "banner_news_card": {
+      "title": "انشر خبر لموظفين الشركه",
+      "description": "الأخبار هي إخطارات عامة للموظفين",
+      "btn": "نشر الان",
+      "modal": {
+        "title": "انشاء خبر جديد",
+        "title_input": "*اختر عنوان مناسب",
+        "description_input": "*اكتب وصف الخبر",
+        "file_input": "برجاء اختيار صوره للخير*"
+      }
+    },
+    "banner_announcements_card": {
+      "title": "انشر اعلان لموظفين الشركه",
+      "description": "الاعلان عباره عن اضافه بانر لمناسبه معينه مثل رمضان، اعياد، ..",
+      "btn": "نشر الان"
+    },
+    "special_news": {
+      "title": "الاخبار الخاصه",
+      "more": "عرض الكل",
+      "details": "تفاصيل الخبر"
+    },
+    "special_announcements": {
+      "title": "الاعلانات الخاصه",
+      "more": "عرض الكل"
+    },
+    "social": {
+      "title": "لينكات منصات التواصل الاجتماعي"
+    },
+    "quick_access": {
+      "title": "الانظمه الخاصه بالشركه"
+    }
+  }
+}
